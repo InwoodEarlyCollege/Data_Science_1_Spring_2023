@@ -51,13 +51,13 @@ Test your code by displaying your list of output values.
 
 ### Part 4: This time, use NumPy to generate a NumPy array of output values based on the input values generated earlier in your program.
 
-If you need some help completing this part of the task, refer back to Data Camp > Introduction to Python > NumPy > Video 1
+If you need some help completing this part of the task, refer back to Data Camp > Introduction to Python > NumPy > Video 1.
 
 Test your code by displaying your NumPy array of output values.
 
 ### Part 5: Write a function that accepts all input variables as arguments and returns the output variable.  Then apply, the function to generate a NumPy array of output values based on the input values generated earlier in your program.
 
-If you need some help completing this part of the task, refer back to Data Camp > Introduction to Python > NumPy > Video 1
+If you need some help completing this part of the task, refer back to Data Camp > Introduction to Python > NumPy > Video 1.
 
 Test your code by displaying your NumPy array of output values.
 
